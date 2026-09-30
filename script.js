@@ -1,4 +1,8 @@
 function toCase(text) {
+	if (str === "") {
+        return "";
+    }
+
   return text.toLowerCase() + "-" + text.toUpperCase();
 }
 
