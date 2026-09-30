@@ -1,5 +1,5 @@
 function toCase(text) {
-	if (str === "") {
+	if (text === "") {
         return "";
     }
 
